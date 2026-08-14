@@ -1,5 +1,7 @@
 # AGENTS.md
 
+Always use Japanese.
+
 ## Add announcements to the issue
 
 - Ask me
@@ -24,10 +26,9 @@
         ```
         - <blog_post_url>
         ```
-- Display inputs and obtain permission to execute.
 - Write urls to the issue.
     - Read the issue and write urls to the issue.
     - Use `gh issue` command.
     - Does not include unnecessary blank lines.
-    - Leave a blank line before the next section.
+    - Include a line break after the added line.
     - Delete unnecessary temporary files.
