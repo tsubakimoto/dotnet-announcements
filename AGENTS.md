@@ -24,6 +24,7 @@
         ```
         - <blog_post_url>
         ```
+- Display inputs and obtain permission to execute.
 - Write urls to the issue.
     - Read the issue and write urls to the issue.
     - Use `gh issue` command.
